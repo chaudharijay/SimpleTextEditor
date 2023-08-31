@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text Editor</string>
+    <string name="file">FILE</string>
+    <string name="c_new">NEW</string>
+    <string name="open">OPEN</string>
+    <string name="save">SAVE</string>
+</resources>
